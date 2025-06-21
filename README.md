@@ -13,8 +13,7 @@
 ## 1. Enigma_01について
 Enigma_01は[Kz](https://x.com/kazu_dob)さんが制作した[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)やweteorさんが制作した[SPC_EVDR](https://github.com/weteor/SPC_EVDR)に影響を受けた狭ピッチ40%キーボードです。  
 
-[紹介ページ](https://note.com/gunma_key/n/n348df0d37cfe)
-
+[紹介ページ](https://note.com/gunma_key/n/n348df0d37cfe)  
 [ファームウェア](https://github.com/nazuna293/zmk-config-Enigma_01)
 
 > [!WARNING]
