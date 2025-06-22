@@ -15,11 +15,11 @@
 ## 1. Enigma_01
 Enigma_01は[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.com/kazu_dob)さん)や[SPC_EVDR](https://github.com/weteor/SPC_EVDR)([weteor]さん)に影響を受けた狭ピッチ40%キーボードです。  
 ### 1-1. 特徴
-+ ZMK Firmware × XIAO nRF52840により無線接続対応
-+ オーソリニア配列(42キー、10列)
-+ キーピッチ17mm
-+ 親指キーの配列
++ ZMK Farmwareによる無線接続対応
++ 40%オーソリニア配列(42キー)
++ キーピッチ17mmの狭ピッチ設計
 + ロータリーエンコーダー搭載
++ 親指キーの配列が選択可能
 + リポバッテリー搭載可能
 
 [ファームウェア](https://github.com/nazuna293/zmk-config-Enigma_01)
