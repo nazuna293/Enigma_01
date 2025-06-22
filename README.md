@@ -22,10 +22,9 @@ Enigma_01は[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.c
 + 親指キーの配列が選択可能
 + リポバッテリー搭載可能
 
-[ファームウェア](https://github.com/nazuna293/zmk-config-Enigma_01)
+### 1-2. キーレイアウト  
+キーマップ
 
-> [!WARNING]
-> 同じ商品でも修正等により、形状が多少変化する場合があります。
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
 
@@ -78,6 +77,8 @@ Enigma_01は[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.c
 
 
 ## 3. 動作確認
+
+[ファームウェア](https://github.com/nazuna293/zmk-config-Enigma_01)
 
 **大まかな流れ**
 1. Enigma_01の到着
