@@ -13,7 +13,7 @@
 5. [注意事項](#4-注意事項)  
 
 ## 1. Enigma_01
-Enigma_01は[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.com/kazu_dob)さん)や[SPC_EVDR](https://github.com/weteor/SPC_EVDR)([weteor]さん)に影響を受けた狭ピッチ40%キーボードです。  
+Enigma_01は[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.com/kazu_dob)さん)や[SPC_EVDR](https://github.com/weteor/SPC_EVDR)([weteor](https://github.com/weteor)さん)に影響を受けた狭ピッチ40%キーボードです。  
 ### 1-1. 特徴
 + ZMK Farmwareによる無線接続対応
 + 40%オーソリニア配列(42キー)
