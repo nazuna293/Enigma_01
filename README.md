@@ -59,7 +59,14 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 
 
 ### 2-3. 購入おすすめ品
+#### 市販キーキャップ
+17mm狭ピッチに対応した市販キーキャップをいくつか紹介します。
+|商品|軸|取扱先|
+|:-|:-|:-|
+|junana mx|Cherry MX軸|[booth](https://decentkeyboards.booth.pm)|
+|Chosfox|choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
 
+#### メンテナンス道具
 |商品|数|備考|
 |:-|:-|:-|
 |プラスドライバー|×1|M2ネジ対応|
