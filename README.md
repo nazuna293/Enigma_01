@@ -64,9 +64,11 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |Chosfox|choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
 
 #### リポバッテリー
+無線接続の電源として本体に内蔵することが出来ます。
 |商品|数|備考|
 |:-|:-|:-|
-||×1||
+||×1|[amazom](https://amzn.asia/d/9lPlnt1)|
+> 取付方法、適合寸法などは[こちら](docs/battery.md)でご確認ください。
 
 #### メンテナンス道具
 |商品|数|備考|
