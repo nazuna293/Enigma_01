@@ -63,6 +63,11 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |Kotori Blank(Proto)|Cherry MX軸|[booth](https://shakupan.booth.pm/items/6781056)|
 |Chosfox|choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
 
+#### リポバッテリー
+|商品|数|備考|
+|:-|:-|:-|
+||×1||
+
 #### メンテナンス道具
 |商品|数|備考|
 |:-|:-|:-|
