@@ -49,9 +49,9 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 2-2.別途必要部品
 |商品|数|備考|
 |:-|:-|:-|
-|キースイッチ|×39~42|Choc v1/Choc v2/Lofree|
+|キースイッチ|×39~42|対応するスイッチ<br>Choc v1、Choc v2、Lofree|
 |USB-Cケーブル|×1|接続、充電用|
-> 付属するキーキャップは**Choc v2/Lofree用**です。　　
+> 付属するキーキャップCherry MX軸で**Choc v2、Lofree**に対応します。　　
 
 ### 2-3. 購入おすすめ品
 #### 市販キーキャップ
@@ -59,6 +59,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |商品|軸|取扱先|
 |:-|:-|:-|
 |junana mx|Cherry MX軸|[booth](https://decentkeyboards.booth.pm)|
+|Kotori Blank(Proto)|Cherry MX軸|[booth](https://shakupan.booth.pm/items/6781056)|
 |Chosfox|choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
 
 #### メンテナンス道具
