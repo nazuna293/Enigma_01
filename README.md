@@ -12,7 +12,7 @@
 3. [ビルドガイド](#3-ビルドガイド)  
   3-1. [大まかな流れ](#3-1-大まかな流れ)  
   3-2. [部品取付について](#3-2-部品取付について)  
-  3-3. [choc v1キースイッチ注意事項](#3-5-choc-v1キースイッチ注意事項)  
+  3-3. [choc v1注意事項](#3-5-choc-v1キースイッチ注意事項)  
 4. [注意事項](#4-注意事項)  
 
 ## 1. Enigma_01
@@ -58,9 +58,9 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 2-2.別途必要部品
 |商品|数|備考|
 |:-|:-|:-|
-|キースイッチ|×39~42|対応するスイッチ<br>Choc v1、Choc v2、Lofree|
+|キースイッチ|×39~42|対応するスイッチ<br>Choc v1、Choc v2(Kailh,Lofree)|
 |USB-Cケーブル|×1|接続、充電用|
-> 付属するキーキャップCherry MX軸で**Choc v2、Lofree**に対応します。　　
+> 付属するキーキャップCherry MX軸で**Choc v2**に対応します。　　
 
 📷v1,v2  
 
@@ -72,6 +72,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |junana mx|Cherry MX軸|[booth](https://decentkeyboards.booth.pm)|
 |Kotori Blank(Proto)|Cherry MX軸|[booth](https://shakupan.booth.pm/items/6781056)|
 |Chosfox|choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
+|Tai-Hao THCS|choc v1軸|[TALPKEYBOARD]
 
 #### リポバッテリー
 無線接続の電源として本体に内蔵することが出来ます。
@@ -90,7 +91,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 2-4. 3DP製キーキャップ
 📷キーキャップ  
 
-本商品に付属するキーキャップは狭ピッチ（17mm）、Cherry MX軸(Choc v2/Lofree)に対応したオリジナルキーキャップです。  
+本商品に付属するキーキャップは狭ピッチ（17mm）、Cherry MX軸(Choc v2)に対応したオリジナルキーキャップです。  
 **誤タッチしづらい**ことに重点を置き、設計を重ねました。
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
@@ -126,7 +127,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 詳細は[こちら](docs/battery.md)です。
 
 ### 3-3. choc v1キースイッチ注意事項
-choc v1キースイッチを使用する場合は、キースイッチが横向きになる箇所やピンカットが必要な場合があります。詳細は[こちら](docs/choc_v1.md)です。
+利用可能なキー配列の制限やキースイッチが横向きになる箇所、ピンカットが必要な場合があります。詳細は[こちら](docs/choc_v1.md)です。
 
 ## 4. 注意事項
 > [!CAUTION]
