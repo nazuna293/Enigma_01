@@ -1,6 +1,6 @@
 # Enigma_01本体 部品表
 Enigma_01本体を構成している部品は以下の通りです。  
-<img src="img/main_parts.jpg">
+<img src="img/parts_main.jpg">
 
 ## ケース関係(3Dプリント品)
 |部品名|数|備考|
