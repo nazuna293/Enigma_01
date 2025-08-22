@@ -1,5 +1,5 @@
 # Enigma_01 詳細説明
-<img src="docs/img/main.jpg">
+
 
 ## 目次
 1. [Enigma_01](#1-Enigma_01)  
