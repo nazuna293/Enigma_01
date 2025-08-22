@@ -1,5 +1,5 @@
 # Enigma_01 詳細説明
-<img src="img/main.jpg">
+<img src="docs/img/main.jpg">
 
 ## 目次
 1. [Enigma_01](#1-Enigma_01)  
@@ -30,7 +30,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 外観
 寸法は(**W180×D100×H18mm​​​​​​​​​​​​​​​​​​​​​​**)で**iPad mini**にも収まります。
 背面の傾斜（チルト）はありませんが、**ロープロ×狭ピッチ**により**違和感の少ない打鍵感**です。
-<img src="img/size.jpg">
+<img src="docs/img/size.jpg">
 
 ### キーレイアウト  
 キーマップ
