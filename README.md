@@ -95,7 +95,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
 ### 2-5. タクトスイッチキット
-<img src="docs/img/tact_main.jpg">
+<img src="docs/img/tact_main.jpg">  
 最上段の2キーをタクトスイッチに置き換えるためのキットです。取付方法は[こちら](docs/tact_sw.md)です。
 
 ## 3. ビルドガイド
