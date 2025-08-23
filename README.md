@@ -60,8 +60,8 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |キースイッチ|×39~42|対応するスイッチ<br>Choc v1、Choc v2(Kailh,Lofree)|
 |USB-Cケーブル|×1|接続、充電用|
 > 付属するキーキャップCherry MX軸で**Choc v2**に対応します。　　
-
-📷v1,v2  
+<img src="docs/img/switch_1.jpg">
+<img src="docs/img/switch_2.jpg">
 
 ### 2-3. 購入おすすめ品
 #### 市販キーキャップ
@@ -94,7 +94,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
 ### 2-5. タクトスイッチキット
-📷キット  
+<img src="docs/img/tact_main.jpg">
 最上段の2キーをタクトスイッチに置き換えるためのキットです。取付方法は[こちら](docs/tact_sw.md)です。
 
 ## 3. ビルドガイド
