@@ -60,6 +60,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |キースイッチ|×39~42|対応するスイッチ<br>Choc v1、Choc v2(Kailh,Lofree)|
 |USB-Cケーブル|×1|接続、充電用|
 > 付属するキーキャップCherry MX軸で**Choc v2**に対応します。　　
+#### 対応するスイッチ
 <img src="docs/img/switch_1.jpg">
 <img src="docs/img/switch_2.jpg">
 
