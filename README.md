@@ -33,7 +33,8 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 <img src="docs/img/size.jpg">
 
 ### キーレイアウト  
-キーマップ
+
+![](https://raw.githubusercontent.com/nazuna293/zmk-config-Enigma_01/main/keymap-drawer/Enigma_01_a.svg)
 
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
