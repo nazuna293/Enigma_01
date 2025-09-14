@@ -109,7 +109,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 3. デバイスと接続して動作確認する
 
 ### 3-1. キーマップ、ファームウェアについて
-初期キーマップの確認やファームウェアは[こちら](https://github.com/nazuna293/zmk- keyboard-Enigma_01)です。
+初期キーマップの確認やファームウェアは[こちら](https://github.com/nazuna293/zmk-keyboard-Enigma_01)です。
 
 ### 3-2. 接続方法について
 #### 有線接続の方法
