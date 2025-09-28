@@ -36,7 +36,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 背面の傾斜（チルト）はありませんが、**ロープロ×狭ピッチ**により**違和感の少ない打鍵感**です。
 <img src="docs/img/size.jpg">
 
-### キーレイアウト  
+### 初期キーマップ  
 
 ![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_01/main/keymap-drawer/Enigma_01_a.svg)
 
@@ -108,8 +108,8 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 2. キースイッチとキーキャップを取り付ける
 3. デバイスと接続して動作確認する
 
-### 3-1. キーマップ、ファームウェアについて
-初期キーマップの確認やファームウェアは[こちら](https://github.com/nazuna293/zmk-keyboard-Enigma_01)です。
+### 3-1. ファームウェアについて
+ファームウェアやキーマップ編集は[こちら](https://github.com/nazuna293/zmk-Enigma_01-user-config)です。
 
 ### 3-2. 接続方法について
 #### 有線接続の方法
