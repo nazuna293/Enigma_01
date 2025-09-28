@@ -21,7 +21,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 
 + 販売は[BOOTH](https://nazuna293.booth.pm/items/7125433)で行う予定です。  
 + ユーザー向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-Enigma_01-user-config)です。
-+ 設計者向けのファームウェアは[こちら] (https://github.com/nazuna293/zmk-keyboard-Enigma_01)です。
++ 設計者向けのファームウェアは[こちら](https://github.com/nazuna293/zmk-keyboard-Enigma_01)です。
 
 ### 特徴
 + ZMK Firmwareによる無線接続対応
