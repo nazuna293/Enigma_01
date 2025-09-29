@@ -76,7 +76,6 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |junana mx|Cherry MX軸|[booth](https://decentkeyboards.booth.pm)|
 |Kotori Blank(Proto)|Cherry MX軸|[booth](https://shakupan.booth.pm/items/6781056)|
 |Chosfox|Choc v1軸|[遊舎工房](https://shop.yushakobo.jp/products/6143)|
-|Tai-Hao THCS|Choc v1軸|[TALPKEYBOARD]
 
 #### リポバッテリー
 無線接続の電源として本体に内蔵することが出来ます。
@@ -95,7 +94,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 2-4. 3DP製キーキャップ
 <img src="docs/img/nazuna_pick.jpg"> 
 
-本商品に付属するキーキャップはオリジナルキーキャップ[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)です。狭ピッチ（17mm）、Cherry MX軸(Choc v2)に対応した**誤タッチしづらい**ことに重点を置いた設計です。
+オリジナルキーキャップ[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)が付属します。狭ピッチ（17mm）のMX軸(Choc v2)で**誤タッチしづらい**ことに重点を置いた設計です。
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
 ### 2-5. タクトスイッチキット
