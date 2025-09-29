@@ -1,6 +1,8 @@
 # 親指キーの配列
 トッププレートを交換することで親指キー（最下段の中央4キー）の配列を変更することができます。
-📷三パターン一覧
+<img src="img/layout_a.jpg">
+<img src="img/layout_b.jpg">
+<img src="img/layout_c.jpg">
 
 ## 必要なもの
 ・親指キートッププレート  
