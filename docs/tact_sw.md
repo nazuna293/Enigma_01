@@ -1,5 +1,5 @@
 # タクトスイッチ取り付け
-<img src="img/tact_main.jpg">
+<img src="img/tact_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 最上段2キーをタクトスイッチに置き換えて外観をカスタムすることができます。
 
 ## 必要なもの
@@ -8,11 +8,11 @@
 
 ## 取付方法
 1. 本体裏のネジ6本を外して、基板を取り出す。※ネジ、電源ボタンの紛失に注意。  
-<img src="img/backside.jpg">
+<img src="img/backside.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 2. キースイッチ、トッププレートを取り外す。  
 3. タクトスイッチをはんだ付けする。  
-<img src="img/tact_setup.jpg">
+<img src="img/tact_setup.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 > [!TIP]
 > 縦長の向きに配置してください。上下の指定はありません。  
