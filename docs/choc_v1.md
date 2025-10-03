@@ -1,6 +1,6 @@
 # choc v1 注意事項  
 狭ピッチ×複数配列という設計上、choc v1キースイッチを使用する場合は、以下の注意点があります。  
-<img src="img/v1_cation.jpg">
+<img src="img/v1_cation.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ## 1.0u配列のみ対応  
 狭ピッチに対応した市販キーキャップは1.0uしか見当たりません。1.5u配列、2.0u配列を利用する場合はchoc v2キースイッチを使用してください。
