@@ -12,7 +12,7 @@
 劣化で膨らむ場合があるので、余裕を持って収まるサイズをおすすめします。
 
 おすすめのサイズ規格は**401730**、[Amazon](https://www.amazon.jp/dp/B08215WQMQ)で1,000円程度で購入できます。
-<img src="img/LP401730.jpg" width="250">
+<img src="img/LP401730.jpg" alt="製品画像" style="width: 100%; max-width: 1200px; height: auto;">
 
 
 ## 取付方法
