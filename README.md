@@ -1,5 +1,5 @@
 # Enigma_01 詳細説明
-<img src="docs/img/main.jpg">
+<img src="docs/img/main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ## 目次
 1. [Enigma_01](#1-Enigma_01)  
@@ -34,7 +34,7 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 外観
 寸法は(**W180×D100×H18mm​​​​​​​​​​​​​​​​​​​​​​**)で**iPad mini**にも収まります。
 背面の傾斜（チルト）はありませんが、**ロープロ×狭ピッチ**により**違和感の少ない打鍵感**です。
-<img src="docs/img/size.jpg">
+<img src="docs/img/size.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ### 初期キーマップ  
 
@@ -65,8 +65,8 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 |USB-Cケーブル|×1|接続、充電用|
 > 付属するキーキャップCherry MX軸で**Choc v2**に対応します。　　
 #### 対応するスイッチ
-<img src="docs/img/switch_1.jpg">
-<img src="docs/img/switch_2.jpg">
+<img src="docs/img/switch_1.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<img src="docs/img/switch_2.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 ### 2-3. 購入おすすめ品
 #### 市販キーキャップ
@@ -92,13 +92,13 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 > キーボードを分解するときに必要となります。  
 
 ### 2-4. 3DP製キーキャップ
-<img src="docs/img/nazuna_pick.jpg"> 
+<img src="docs/img/nazuna_pick.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 オリジナルキーキャップ[Nazuna_pick](https://nazuna293.booth.pm/items/7265342)が付属します。狭ピッチ（17mm）のMX軸(Choc v2)で**誤タッチしづらい**ことに重点を置いた設計です。
 > 積層が縦になるように取り付けることで手触りが良くなります。  
 
 ### 2-5. タクトスイッチキット
-<img src="docs/img/tact_main.jpg">  
+<img src="docs/img/tact_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
 最上段の2キーをタクトスイッチに置き換えるためのキットです。取付方法は[こちら](docs/tact_sw.md)です。
 
