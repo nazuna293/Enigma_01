@@ -133,6 +133,20 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 ### 3-4. Choc v1キースイッチ注意事項
 利用可能なキー配列の制限やキースイッチが横向きになる箇所、ピンカットが必要な場合があります。詳細は[こちら](docs/choc_v1.md)です。
 
+## 4. 搭載したカスタム機能（モジュール）
+
+|:-|:-|
+|[zmk-rgbled-widget]( https://github.com/caksoylar/zmk-rgbled-widget)|バッテリー残量や接続状況をLEDで表示|
+|[zmk-layout-shift](https://github.com/kot149/zmk-layout-shift)|US配列とJIS配列のキーコード相違を解消|
+|[zmk-listener](https://github.com/ssbb/zmk-listeners)|特定のキー操作を感知して指定した操作を実行|
+
+バッテリー残量は🟩（30%↑）、🟨（10%↑）、🟥（0%↑）の3色で表示されます。
+
+to_ALTレイヤーに居る間はALTキーが押された状態になります。推移と離脱を検知しています。
+
+> tips
+> [kot](https://x.com/kot149_)さんの[zmk-config-roBa](https://github.com/kot149/zmk-config-roBa)がとても参考になります。キーマップ関係の[ガイド](https://github.com/kot149/zmk-config-roBa/blob/main/docs/keymap.md)は必見です。
+
 ## 4. 注意事項
 > [!CAUTION]
 > リポバッテリーを搭載する場合は、適切に取り扱ってください。万が一、発煙などの異常が生じた場合には使用を中止してください。適切な取り扱いについては、[こちら](https://www.baj.or.jp/battery/safety/safety16.html)の参考情報をご覧ください。 
