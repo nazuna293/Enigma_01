@@ -146,10 +146,10 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 
 to_ALTレイヤーに居る間はALTキーが押された状態になります。推移と離脱を検知しています。
 
-> [!TIPS]
+> [!TIP]
 > [kot](https://x.com/kot149_)さんの[zmk-config-roBa](https://github.com/kot149/zmk-config-roBa)がとても参考になります。キーマップ関係の[ガイド](https://github.com/kot149/zmk-config-roBa/blob/main/docs/keymap.md)は必見です。
 
-## 4. 注意事項
+## 5. 注意事項
 > [!CAUTION]
 > リポバッテリーを搭載する場合は、適切に取り扱ってください。万が一、発煙などの異常が生じた場合には使用を中止してください。適切な取り扱いについては、[こちら](https://www.baj.or.jp/battery/safety/safety16.html)の参考情報をご覧ください。 
 * 本製品は個人が趣味で設計したものであり、市販品と同等の品質や安全性は保証できません。また、本製品に関する違反指摘や自警行為はご遠慮ください。 
