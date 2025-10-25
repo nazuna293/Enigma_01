@@ -14,7 +14,8 @@
   3-2. [接続方法について](#3-2-接続方法について)  
   3-3. [部品取付について](#3-3-部品取付について)  
   3-4. [choc v1注意事項](#3-4-choc-v1キースイッチ注意事項)  
-4. [注意事項](#4-注意事項)  
+4. [搭載したカスタム機能](#4-搭載したカスタム機能(モジュール))  
+5. [注意事項](#5-注意事項)  
 
 ## 1. Enigma_01
 Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note.com/kazu_dob/n/n5ea06c3c5d62)([Kz](https://x.com/kazu_dob)さん)や[SPC_EVDR](https://github.com/weteor/SPC_EVDR)([weteor](https://github.com/weteor)さん)に影響を受けた背景があります。  
