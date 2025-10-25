@@ -135,16 +135,17 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 
 ## 4. 搭載したカスタム機能（モジュール）
 
-|:-|:-|  
-|[zmk-rgbled-widget]( https://github.com/caksoylar/zmk-rgbled-widget)|バッテリー残量や接続状況をLEDで表示|  
-|[zmk-layout-shift](https://github.com/kot149/zmk-layout-shift)|US配列とJIS配列のキーコード相違を解消|  
-|[zmk-listener](https://github.com/ssbb/zmk-listeners)|特定のキー操作を感知して指定した操作を実行|  
+|モジュール|内容|
+|:-|:-|
+|[zmk-rgbled-widget]( https://github.com/caksoylar/zmk-rgbled-widget)|バッテリー残量や接続状況をLEDで表示|
+|[zmk-layout-shift](https://github.com/kot149/zmk-layout-shift)|US配列とJIS配列のキーコード相違を解消|
+|[zmk-listener](https://github.com/ssbb/zmk-listeners)|特定のキー操作を感知して指定した操作を実行|
 
 バッテリー残量は🟩（30%↑）、🟨（10%↑）、🟥（0%↑）の3色で表示されます。
 
 to_ALTレイヤーに居る間はALTキーが押された状態になります。推移と離脱を検知しています。
 
-> [!tips]
+> [!TIPS]
 > [kot](https://x.com/kot149_)さんの[zmk-config-roBa](https://github.com/kot149/zmk-config-roBa)がとても参考になります。キーマップ関係の[ガイド](https://github.com/kot149/zmk-config-roBa/blob/main/docs/keymap.md)は必見です。
 
 ## 4. 注意事項
