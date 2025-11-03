@@ -4,6 +4,13 @@
 <img src="img/layout_b.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 <img src="img/layout_c.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
+ファームウェアも
+|ファームウェア(.uf2)|配列|  
+|:-|:-|  
+|Enigma_01 layout_a|1.0u配列|  
+|Enigma_01 layout_b|1.5u配列|  
+|Enigma_01 layout_c|2.0u配列|
+
 ## 必要なもの
 ・親指キートッププレート  
 ・キープラー  
