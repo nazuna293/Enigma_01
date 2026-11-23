@@ -9,6 +9,8 @@
 ## 取付方法
 1. 本体裏のネジ6本を外して、基板を取り出す。※ネジ、電源ボタンの紛失に注意。  
 <img src="img/backside.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<!-- 絵 draw_backside_screws（自動生成）：本体の裏のネジ6本の位置 -->
+<img src="img/draw_backside_screws.png" alt="ネジ6本の位置" style="width: 100%; max-width: 600px; height: auto;">
 
 2. キースイッチ、トッププレートを取り外す。  
 3. タクトスイッチをはんだ付けする。  

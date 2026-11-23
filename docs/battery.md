@@ -18,9 +18,13 @@
 ## 取付方法
 1. 本体裏のネジ6本を外して、基板を取り出す。※ネジ、電源ボタンの紛失に注意。  
 <img src="img/backside.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<!-- 絵 draw_backside_screws（自動生成）：本体の裏のネジ6本の位置 -->
+<img src="img/draw_backside_screws.png" alt="ネジ6本の位置" style="width: 100%; max-width: 600px; height: auto;">
 
 2. 基板、バッテリーの赤い導線がプラス端子の設計ですが、念のため目視で極性を確認する。間違いなければ、コネクタ同士を接続する。  
 <img src="img/bat_pin.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<!-- 絵 draw_battery_polarity（自動生成）：基板のバッテリー端子（J1）の ＋（2番ピン、B+）を裏から -->
+<img src="img/draw_battery_polarity.png" alt="バッテリー端子の＋" style="width: 100%; max-width: 300px; height: auto;">
 
 3. 電源ボタンを押してマイコンのランプが光れば正しく接続できている。万が一、バッテリーに発熱等の異常があれば、電源を切ってバッテリーを取り外すこと。　　
 4. 基板をケースに戻して収まりを確認する。※電源ボタンをテープで留めておくのがコツ。  

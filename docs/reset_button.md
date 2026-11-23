@@ -1,6 +1,11 @@
 本体を分解せずXIAO BLEのリセットボタンを押せるようにアッパーケースにリセットボタンを設けています。
 アッパーボタン📷
+<!-- 絵 draw_reset_upper（自動生成）：アッパーケースのリセットボタン（赤丸） -->
+<img src="img/draw_reset_upper.png" alt="アッパーケースのリセットボタン" style="width: 100%; max-width: 300px; height: auto;">
+
 マイコンボタン📷
+<!-- 絵 draw_reset_xiao（自動生成）：ケースを外した状態。XIAO の RST ボタンと、アッパーのボタンが当たる位置（赤丸） -->
+<img src="img/draw_reset_xiao.png" alt="XIAO のリセットボタン" style="width: 100%; max-width: 300px; height: auto;">
 
 ただしガスケットマウントのため、XIAO BLEのリセットボタンとアッパーケースのリセットボタンの位置がズレて上手く押せない場合があります。
 

@@ -4,6 +4,11 @@
 <img src="img/layout_b.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 <img src="img/layout_c.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
+<!-- 絵 draw_thumb_a/b/c（自動生成）：親指キーのトッププレート（青みの部分）を真上から -->
+|1.0u配列（layout_a）|1.5u配列（layout_b）|2.0u配列（layout_c）|
+|:-:|:-:|:-:|
+|<img src="img/draw_thumb_a.png" alt="1.0u配列">|<img src="img/draw_thumb_b.png" alt="1.5u配列">|<img src="img/draw_thumb_c.png" alt="2.0u配列">|
+
 ファームウェアも
 |ファームウェア(.uf2)|配列|  
 |:-|:-|  
@@ -20,6 +25,8 @@
 1. 親指キーのキーキャップ、キースイッチを取り外す。
 2. 本体裏のネジ6本を外して、基板を取り出す。※ネジ、電源ボタンの紛失に注意。  
 <img src="img/backside.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+<!-- 絵 draw_backside_screws（自動生成）：本体の裏のネジ6本の位置 -->
+<img src="img/draw_backside_screws.png" alt="ネジ6本の位置" style="width: 100%; max-width: 600px; height: auto;">
 3. 親指キーのトッププレートをスライドさせて交換する。  
 <img src="img/top_slide.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
