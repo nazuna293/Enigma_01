@@ -1,8 +1,16 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
 <!-- /nav -->
 
 # 親指キーの配列
+
+<!-- before -->
+> [!NOTE]
+> **この作業の前に**：[分解と組み立て直し](disassembly.md)、配列に合った[ファームウェアの書き込み](firmware.md)  
+> **使う道具**：プラスドライバー（M2）・キープラー  
+> **難しさ**：中
+<!-- /before -->
+
 トッププレートを交換することで親指キー（最下段の中央4キー）の配列を変更することができます。
 <img src="img/layout_a.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 <img src="img/layout_b.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
@@ -45,5 +53,5 @@
 <!-- nav -->
 ---
 
-[ユーザーガイド](user-guide.md) ｜ [← ファームウェアの書き込み](firmware.md) ｜ [分解と組み立て直し →](disassembly.md)
+[← ユーザーガイドに戻る](user-guide.md#設定を変える)
 <!-- /nav -->

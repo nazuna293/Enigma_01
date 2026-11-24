@@ -1,8 +1,16 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
 <!-- /nav -->
 
 # 分解と組み立て直し
+
+<!-- before -->
+> [!NOTE]
+> **この作業の前に**：電源を切り、USB-Cケーブルを抜く  
+> **使う道具**：プラスドライバー（M2）・マスキングテープ  
+> **難しさ**：低
+<!-- /before -->
+
 親指キーの配列変更・リポバッテリーの取付・タクトスイッチの取付で、本体を分解するときの共通の手順です。
 
 <img src="img/draw_parts_exploded.png" alt="部品の重なり" style="width: 100%; max-width: 600px; height: auto;">
@@ -48,5 +56,5 @@
 <!-- nav -->
 ---
 
-[ユーザーガイド](user-guide.md) ｜ [← 親指キーの配列](thumb_key.md) ｜ [リポバッテリー →](battery.md)
+[← ユーザーガイドに戻る](user-guide.md#カスタマイズメンテナンス)
 <!-- /nav -->

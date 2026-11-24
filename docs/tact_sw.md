@@ -1,8 +1,16 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
 <!-- /nav -->
 
 # タクトスイッチ取り付け
+
+<!-- before -->
+> [!NOTE]
+> **この作業の前に**：[分解と組み立て直し](disassembly.md)  
+> **使う道具**：はんだごて・はんだ・プラスドライバー（M2）  
+> **難しさ**：中（はんだ付けあり）
+<!-- /before -->
+
 <img src="img/tact_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 最上段2キーをタクトスイッチに置き換えて外観をカスタムすることができます。
 
@@ -37,5 +45,5 @@
 <!-- nav -->
 ---
 
-[ユーザーガイド](user-guide.md) ｜ [← リポバッテリー](battery.md) ｜ [リセットボタン →](reset_button.md)
+[← ユーザーガイドに戻る](user-guide.md#カスタマイズメンテナンス)
 <!-- /nav -->

@@ -1,5 +1,5 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 01・02 キースイッチ・キーキャップ</sub>
 <!-- /nav -->
 
 # キースイッチ・キーキャップの取り付け
@@ -39,5 +39,5 @@ Choc v1、Choc v2（Kailh、Lofree）。Choc v1を使う場合は[注意事項](
 <!-- nav -->
 ---
 
-[← ユーザーガイド](user-guide.md) ｜ [ファームウェアの書き込み →](firmware.md)
+[← ユーザーガイド](user-guide.md#01-キースイッチの取り付け) ｜ [次: 03 電源を入れる →](user-guide.md#03-電源を入れる)
 <!-- /nav -->

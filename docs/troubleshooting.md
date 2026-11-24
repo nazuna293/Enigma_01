@@ -1,8 +1,15 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
 <!-- /nav -->
 
 # うまく動かないとき
+
+<!-- before -->
+> [!NOTE]
+> **この作業の前に**：なし  
+> **使う道具**：なし  
+> **難しさ**：―
+<!-- /before -->
 
 |症状|確認すること|
 |:-|:-|
@@ -25,5 +32,5 @@ TODO: 連絡先（BOOTH のメッセージ／Discord）。
 <!-- nav -->
 ---
 
-[ユーザーガイド](user-guide.md) ｜ [← choc v1 注意事項](choc_v1.md)
+[← ユーザーガイドに戻る](user-guide.md#困ったとき)
 <!-- /nav -->

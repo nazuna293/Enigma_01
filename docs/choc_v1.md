@@ -1,8 +1,16 @@
 <!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
 <!-- /nav -->
 
 # choc v1 注意事項  
+
+<!-- before -->
+> [!NOTE]
+> **この作業の前に**：キースイッチを取り付ける**前に**読む  
+> **使う道具**：ピンカットする場合はニッパー  
+> **難しさ**：低
+<!-- /before -->
+
 狭ピッチ×複数配列という設計上、choc v1キースイッチを使用する場合は、以下の注意点があります。  
 <img src="img/v1_cation.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 
@@ -25,5 +33,5 @@ TODO: ピンカットする位置の写真（どのスイッチの、どちら�
 <!-- nav -->
 ---
 
-[ユーザーガイド](user-guide.md) ｜ [← リセットボタン](reset_button.md) ｜ [うまく動かないとき →](troubleshooting.md)
+[← ユーザーガイドに戻る](user-guide.md#お客様でご用意いただくもの)
 <!-- /nav -->
