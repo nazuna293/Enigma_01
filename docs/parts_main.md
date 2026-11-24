@@ -1,3 +1,7 @@
+<!-- nav -->
+<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
+<!-- /nav -->
+
 # Enigma_01本体 部品表
 Enigma_01本体を構成している部品は以下の通りです。  
 <img src="img/parts_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
@@ -40,3 +44,9 @@ Enigma_01本体を構成している部品は以下の通りです。
 |タクトスイッチ|×2|1sw-016|
 |スイッチカバー(ボディ)|×1||
 |スイッチカバー(ボタン)|×2||
+
+<!-- nav -->
+---
+
+[← 商品内容（README）](../README.md#2-1-商品内容) ｜ [ユーザーガイド](user-guide.md#商品内容の確認)
+<!-- /nav -->

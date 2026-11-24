@@ -50,6 +50,8 @@ Enigma_01は**17mm狭ピッチ40%キーボード**です。[40Plus](https://note
 <!-- 絵 draw_parts_exploded（自動生成: 40_Scripts\個人\100_KeyboardCase\buildguide\make_scenes.py --kbd Enigma01）：部品の重なり。ケースは薄型（開発中）で描いている -->
 <img src="docs/img/draw_parts_exploded.png" alt="部品の重なり" style="width: 100%; max-width: 600px; height: auto;">
 
+> 図は設計データから描いたもので、ケースは開発中の新しい形（薄型）です。写真のケースと形が一部異なります。部品の色は見分けやすさのためです。
+
 |商品|数|備考|
 |:-|:-|:-|
 |Enigma_01本体|×1|[部品表](docs/parts_main.md)|
