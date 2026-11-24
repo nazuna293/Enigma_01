@@ -1,3 +1,7 @@
+<!-- nav -->
+<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<!-- /nav -->
+
 # ファームウェアの書き込み
 Enigma_01はファームウェアを書き込んだ状態でお届けします。親指キーの配列を変えたとき、キーマップを変えたときに書き込み直します。
 
@@ -30,3 +34,9 @@ TODO: ファームウェアの入手方法（Actions の成果物か Releases �
 - [ファーム書き込み時のエラー](firm_error.md)
 - [リセットボタン](reset_button.md)
 - [親指キーの配列](thumb_key.md)
+
+<!-- nav -->
+---
+
+[ユーザーガイド](user-guide.md) ｜ [← 01 キースイッチ・キーキャップ](keyswitch.md) ｜ [親指キーの配列 →](thumb_key.md)
+<!-- /nav -->

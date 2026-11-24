@@ -1,3 +1,7 @@
+<!-- nav -->
+<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<!-- /nav -->
+
 # choc v1 注意事項  
 狭ピッチ×複数配列という設計上、choc v1キースイッチを使用する場合は、以下の注意点があります。  
 <img src="img/v1_cation.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
@@ -17,3 +21,9 @@ TODO: ピンカットする位置の写真（どのスイッチの、どちら�
 
 <!-- 絵 draw_choc_v1_sideways（自動生成）：最下段で、PCBソケットが90°回っている位置（赤丸。基板の SW16＝1.0u配列・SW43＝1.5u配列）。基板の「choc v1 be careful」の印刷のそば -->
 <img src="img/draw_choc_v1_sideways.png" alt="横向きに付ける位置" style="width: 100%; max-width: 400px; height: auto;">
+
+<!-- nav -->
+---
+
+[ユーザーガイド](user-guide.md) ｜ [← リセットボタン](reset_button.md) ｜ [うまく動かないとき →](troubleshooting.md)
+<!-- /nav -->

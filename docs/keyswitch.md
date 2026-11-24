@@ -1,3 +1,7 @@
+<!-- nav -->
+<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<!-- /nav -->
+
 # キースイッチ・キーキャップの取り付け
 Enigma_01本体には、キースイッチは付いていません（PCBソケット付き）。キースイッチを差し込み、キーキャップを付けて使います。
 
@@ -31,3 +35,9 @@ Choc v1、Choc v2（Kailh、Lofree）。Choc v1を使う場合は[注意事項](
 ## 関連
 - [choc v1 注意事項](choc_v1.md)
 - [親指キーの配列](thumb_key.md)
+
+<!-- nav -->
+---
+
+[← ユーザーガイド](user-guide.md) ｜ [ファームウェアの書き込み →](firmware.md)
+<!-- /nav -->

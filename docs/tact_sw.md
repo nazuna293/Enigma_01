@@ -1,3 +1,7 @@
+<!-- nav -->
+<sub>[Enigma_01 ユーザーガイド](user-guide.md)</sub>
+<!-- /nav -->
+
 # タクトスイッチ取り付け
 <img src="img/tact_main.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
 最上段2キーをタクトスイッチに置き換えて外観をカスタムすることができます。
@@ -29,3 +33,9 @@
 7. 基板、USB-C、バッテリーの収まりを確認してネジ止めする。  
 
 > タクトスイッチをテープで仮止めして、タクトスイッチカバーを取り付けても動作すると思います。
+
+<!-- nav -->
+---
+
+[ユーザーガイド](user-guide.md) ｜ [← リポバッテリー](battery.md) ｜ [リセットボタン →](reset_button.md)
+<!-- /nav -->
