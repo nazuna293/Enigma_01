@@ -2,52 +2,47 @@
 
 # 親指キーの配列
 
-<!-- before -->
 > [!NOTE]
-> **この作業の前に**：[分解と組み立て直し](disassembly.md)、配列に合った[ファームウェアの書き込み](firmware.md)  
-> **使う道具**：プラスドライバー（M2）・キープラー  
-> **難しさ**：中
-<!-- /before -->
+> **使う人**：配列を選ぶ人（[2-2](build-guide.md#2-2-ファームウェアの用意)）、組み上げた後に配列を変える人  
+> **使う道具**：プラスドライバー（+0）・キープラー（変えるときだけ）  
+> **難しさ**：低
 
-トッププレートを交換することで親指キー（最下段の中央4キー）の配列を変更することができます。
-<img src="img/layout_a.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
-<img src="img/layout_b.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
-<img src="img/layout_c.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+親指キー（最下段の中央）は、親指キーのトッププレートを差し替えて、3つの配列から選べます。
+
+## 3つの配列
+
+| 配列 | キースイッチの数 | ファーム（.uf2） |
+|:-|-:|:-|
+| 1.0u | 42個 | `Enigma_01 layout_a` |
+| 1.5u | 41個 | `Enigma_01 layout_b` |
+| 2.0u | 41個 | `Enigma_01 layout_c` |
+
+- 1.5u 配列には 1.5u のキーキャップが2個、2.0u 配列には 2.0u のキーキャップが1個要ります
+- Choc v1 のキースイッチは、1.0u 配列だけで使えます（[Choc v1 の注意事項](choc_v1.md)）
+- 迷ったら 1.0u で始めて、後から変えてもかまいません
 
 <!-- 絵 draw_thumb_a/b/c（自動生成）：親指キーのトッププレート（青みの部分）を真上から -->
-|1.0u配列（layout_a）|1.5u配列（layout_b）|2.0u配列（layout_c）|
-|:-:|:-:|:-:|
-|<img src="img/draw_thumb_a.png" alt="1.0u配列">|<img src="img/draw_thumb_b.png" alt="1.5u配列">|<img src="img/draw_thumb_c.png" alt="2.0u配列">|
+**1.0u 配列**
 
-ファームウェアも
-|ファームウェア(.uf2)|配列|  
-|:-|:-|  
-|Enigma_01 layout_a|1.0u配列|  
-|Enigma_01 layout_b|1.5u配列|  
-|Enigma_01 layout_c|2.0u配列|
+<img src="img/draw_thumb_a.png" alt="1.0u 配列" style="width: 100%; max-width: 600px; height: auto;">
 
-## 必要なもの
-・親指キートッププレート  
-・キープラー  
-・プラスドライバー  
+**1.5u 配列**
 
-## 変更手順
-分解と組み立て直しの詳しい手順は[こちら](disassembly.md)、ファームウェアの書き込み方は[こちら](firmware.md)です。
+<img src="img/draw_thumb_b.png" alt="1.5u 配列" style="width: 100%; max-width: 600px; height: auto;">
 
-1. 親指キーのキーキャップ、キースイッチを取り外す。
-2. 本体裏のネジ6本を外して、基板を取り出す。※ネジ、電源ボタンの紛失に注意。  
-<img src="img/backside.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
-<!-- 絵 draw_backside_screws（自動生成）：本体の裏のネジ6本の位置 -->
-<img src="img/draw_backside_screws.png" alt="ネジ6本の位置" style="width: 100%; max-width: 600px; height: auto;">
-3. 親指キーのトッププレートをスライドさせて交換する。  
-<img src="img/top_slide.jpg" alt="製品画像" style="width: 100%; max-width: 600px; height: auto;">
+**2.0u 配列**
 
-4. 基板をケースに戻して収まりを確認する。※電源ボタンをテープで留めておくのがコツ。  
-> [!TIP]
-> ボトムケースに部品を組み付けるより、アッパーケースを裏返して、部品を組み付ける方がUSB端子を納めやすいです。
-5. 基板、USB-C、バッテリーの収まりを確認してネジ止めする。  
-6. 親指キーのキーキャップ、キースイッチを取り付ける。
+<img src="img/draw_thumb_c.png" alt="2.0u 配列" style="width: 100%; max-width: 600px; height: auto;">
+
+## 組み上げた後に変える
+
+1. 親指キーのキーキャップとキースイッチを外す
+2. 本体を分解する（[分解の手順](disassembly.md#分解の手順)）
+3. メイントッププレートから、親指キーのトッププレートをスライドさせて外し、使う配列の1枚をはめる
+4. 組み立て直す（[組み立て直しの手順](disassembly.md#組み立て直しの手順)）
+5. 配列に合うファームを書き込む（[ファームウェアの書き込み](firmware.md)）
+6. 親指キーのキースイッチとキーキャップを付ける
 
 ---
 
-[← ビルドガイド 6-1 に戻る](build-guide.md#6-1-親指キーの配列を選ぶ) ｜ [目次](build-guide.md#目次)
+[← ビルドガイド 2-2 に戻る](build-guide.md#2-2-ファームウェアの用意) ｜ [← 6-1 に戻る](build-guide.md#6-1-親指キーの配列を選ぶ) ｜ [目次](build-guide.md#目次)
