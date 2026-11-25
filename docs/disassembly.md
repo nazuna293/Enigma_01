@@ -50,7 +50,6 @@
 ## 関連
 - [親指キーの配列](thumb_key.md)
 - [リポバッテリー取付方法](battery.md)
-- [リセットボタン](reset_button.md)
 
 ---
 
