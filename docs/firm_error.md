@@ -1,6 +1,4 @@
-<!-- nav -->
-<sub>[Enigma_01 ユーザーガイド](user-guide.md) ＞ 必要なときに見るページ</sub>
-<!-- /nav -->
+<sub>[Enigma_01 ビルドガイド](build-guide.md) ＞ [ファームウェアの書き込み](firmware.md)</sub>
 
 # ファームウェア書き込み時のエラー
 
@@ -9,8 +7,6 @@
 
 PC環境等が原因のようでX（旧Twitter）でも、このエラーメッセージに悩んでいる方が確認できます。
 
-<!-- nav -->
 ---
 
-[← ファームウェアの書き込み](firmware.md) ｜ [ユーザーガイド](user-guide.md)
-<!-- /nav -->
+[← ファームウェアの書き込み](firmware.md) ｜ [ビルドガイドの目次](build-guide.md#目次)
