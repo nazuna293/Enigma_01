@@ -36,7 +36,9 @@ TODO: 薄型ケースの寸法に更新する。
 
 ### 初期キーマップ  
 
-![](https://raw.githubusercontent.com/nazuna293/zmk-keyboard-Enigma_01/main/keymap-drawer/Enigma_01_a.svg)
+![初期キーマップ（1.0u 配列）](https://raw.githubusercontent.com/nazuna293/zmk-Enigma_01-user-config/zmk-main/keymap-drawer/Enigma_01_a.svg)
+
+キーマップは [DYA Studio](https://studio.dya.cormoran.works)・[ZMK Studio](https://zmk.studio) で、書き込み直さずに画面から変えられます。レイヤーや同時押しの一覧は[ユーザー向けリポジトリ](https://github.com/nazuna293/zmk-Enigma_01-user-config)にあります。
 
 興味のある人はDiscordの[Enigma サポート開発](https://discord.gg/sYsCttWgKr)に立ち寄ってみてください。
 
@@ -54,8 +56,8 @@ TODO: 薄型ケースの寸法に更新する。
 ### 2-2. 別途用意するもの
 |商品|数|備考|
 |:-|:-|:-|
-|キースイッチ|×41$142|Choc v1、Choc v2(Kailh,Lofree)。Choc v1は[注意事項](docs/choc_v1.md)あり|
-|キーキャップ|×41$142|狭ピッチ(17mm以下)対応のもの|
+|キースイッチ|×41〜42|Choc v1、Choc v2(Kailh,Lofree)。Choc v1は[注意事項](docs/choc_v1.md)あり|
+|キーキャップ|×41〜42|狭ピッチ(17mm以下)対応のもの|
 |USB-Cケーブル|×1|接続、充電用|
 |リポバッテリー|×1|任意。無線で使う場合。[選び方](docs/battery.md)|
 |はんだ付けの道具|一式|[必要な工具](docs/build-guide.md#1-3-必要な工具)|
@@ -102,12 +104,12 @@ TODO: 薄型ケースの寸法に更新する。
 |:-|:-|
 |[zmk-rgbled-widget]( https://github.com/caksoylar/zmk-rgbled-widget)|バッテリー残量や接続状況をLEDで表示|
 |[zmk-layout-shift](https://github.com/kot149/zmk-layout-shift)|US配列とJIS配列のキーコード相違を解消|
-|[zmk-listener](https://github.com/ssbb/zmk-listeners)|特定のキー操作を感知して指定した操作を実行|
+|[zmk-feature-runtime-combo](https://github.com/cormoran/zmk-feature-runtime-combo)|同時押しを DYA Studio で編集（DYA 版だけ）|
+|[zmk-feature-runtime-macro](https://github.com/cormoran/zmk-feature-runtime-macro)|マクロを DYA Studio で作成（DYA 版だけ）|
 
-バッテリー残量は🟩（30%↑）、🟨（10%↑）、🟥（0%↑）の3色で表示されます。
-
-
-to_ALTレイヤーに居る間はALTキーが押された状態になります。推移と離脱を検知しています。
+- バッテリー残量は🟩（30%↑）、🟨（10%↑）、🟥（10%未満）の3色で表示されます
+- JIS 配列のパソコンでは、B を押したまま A の位置で JIS 用に切り替えます（S の位置で US 用に戻ります）
+- 左上・右上のキーを押したまま反対側を押すと、アプリの切り替え（Alt+Tab・Win+Tab）になります
 
 > [!TIP]
 > [kot](https://x.com/kot149_)さんの[zmk-config-roBa](https://github.com/kot149/zmk-config-roBa)がとても参考になります。キーマップ関係の[ガイド](https://github.com/kot149/zmk-config-roBa/blob/main/docs/keymap.md)は必見です。
